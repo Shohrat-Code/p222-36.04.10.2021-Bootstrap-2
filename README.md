@@ -6,4 +6,4 @@
 
 
 
-##### 1. Bootstrapı sına qədər oxuyun.
+##### 1. Bootstrapı sona qədər oxuyun.
